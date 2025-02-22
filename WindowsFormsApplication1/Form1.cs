@@ -21,5 +21,10 @@ namespace WindowsFormsApplication1
         {
             MessageBox.Show("hello world!");
         }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+            MessageBox.Show("Chin chao");
+        }
     }
 }
