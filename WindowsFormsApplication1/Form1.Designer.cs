@@ -44,18 +44,18 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.Location = new System.Drawing.Point(740, 323);
+            this.groupBox1.Location = new System.Drawing.Point(740, 211);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(200, 100);
+            this.groupBox1.Size = new System.Drawing.Size(381, 212);
             this.groupBox1.TabIndex = 2;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "groupBox1";
             // 
             // panel1
             // 
-            this.panel1.Location = new System.Drawing.Point(532, 323);
+            this.panel1.Location = new System.Drawing.Point(640, 344);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(200, 100);
+            this.panel1.Size = new System.Drawing.Size(92, 79);
             this.panel1.TabIndex = 3;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
